@@ -1,0 +1,6 @@
+{
+  "name": "Smart Home Automation System",
+  "description": "IoT smart home dashboard with live sensor monitoring, device control, ESP32 MQTT integration, real-time alerts, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
